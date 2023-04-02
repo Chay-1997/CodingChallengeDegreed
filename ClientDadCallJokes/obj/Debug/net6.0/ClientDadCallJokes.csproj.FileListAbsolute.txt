@@ -1,0 +1,17 @@
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\ClientDadCallJokes.deps.json
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\ClientDadCallJokes.dll
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\ClientDadCallJokes.pdb
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\Contract.dll
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\ServiceDadCallJokes.dll
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\ServiceDadCallJokes.pdb
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\bin\Debug\net6.0\Contract.pdb
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.csproj.AssemblyReference.cache
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.AssemblyInfoInputs.cache
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.AssemblyInfo.cs
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.csproj.CoreCompileInputs.cache
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.csproj.CopyComplete
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.dll
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\refint\ClientDadCallJokes.dll
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ClientDadCallJokes.pdb
+C:\Users\z004amkh\source\repos\ClientDadCallJokes\ClientDadCallJokes\obj\Debug\net6.0\ref\ClientDadCallJokes.dll
